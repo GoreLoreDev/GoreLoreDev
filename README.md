@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuran Paul</h1>
 <h3 align="center">A passionate developer from India(3rd year BTech)</h3>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently working on my **Story Generator Project using JAVA**
 
 - 📫 How to reach me **anuranpaul19@gmail.com**
 

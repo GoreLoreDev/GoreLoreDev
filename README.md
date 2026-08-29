@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuran Paul</h1>
 <h3 align="center">A passionate developer from India(3rd year BTech)</h3>
 
-- 🌱 I’m currently working on my **Anime tracker API using JAVA, SPRING BOOT, SQL**
+- 🌱 I’m currently working on my **TICKET BOOKING SYSTEM using JAVA, SPRING BOOT, SQL**
 
 - 📫 How to reach me **anuranpaul19@gmail.com**
 
